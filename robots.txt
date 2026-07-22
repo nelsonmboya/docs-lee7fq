@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-iwpled.qween.dev/sitemap.xml
